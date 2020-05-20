@@ -11,7 +11,7 @@ This program tells you how popular your name is along the time with the use of p
 This dataset records the rank of baby name for a particular decade. A rank of 1 was the most popular and ranking go all the way down to 1000. 
 Any name with a ranking of 0 means that it was ranked lower than 1000th.
 
-## Column  1: Baby Name  
+##### Column  1: Baby Name  
 ## Column  2: name rank in this decade: 1900-1909    
 Column  3: 1910-1919  
 Column  4: 1920-1929
