@@ -1,7 +1,7 @@
 # Baby-Name-Ranking
 This program tells you how popular your name is along the time with the use of python turtle.
 
-# To initialze,
+# To initialize,
 1. Run babynameranking.py in pycharm.
 
 #2. Baby_Names.data.txt is an example for running the program. It is replacable but has to be in the same format for running the program.
