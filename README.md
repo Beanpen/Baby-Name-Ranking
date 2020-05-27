@@ -1,4 +1,4 @@
-# Baby-Name-Rankin
+# Baby-Name-Ranking
 This program tells you how popular your name is along the time with the use of python turtle.
 
 # To initialze,
